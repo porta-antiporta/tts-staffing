@@ -1,7 +1,7 @@
 ## Prerequisites for staffing new projects
 In order for a new project in the TTS Staffing repo to be staffable, it must:
 * Have identified a single point of contact (from the partner agency if there is a partner external to TTS) that is empowered to make decisions.
-* Include a summary of the current understanding of the problem space.
+* Include a summary of the core problem this effort is meant to solve (not assigning solutions: that’s the team’s work).
  
 ## Opening an issue
 
